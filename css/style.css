@@ -30,8 +30,11 @@ body {
 }
 
 /* Hero Section with Background Image */
+
+/* Hero Section with Background Image */
+
 .hero {
-  background-image: url("/images/hero_gardineiro.jpg");
+  background-image: url("../images/hero_gardineiro.jpg");
   background-size: cover;
   background-position: center;
   height: 450px;
